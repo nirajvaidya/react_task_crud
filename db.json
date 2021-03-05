@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "dhananjay",
+      "contact": 467235432,
+      "email": "m@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "profile_img": "https://image.shutterstock.com/image-photo/mumbai-india-5-january-2015-260nw-251518261.jpg"
+    },
+    {
+      "id": 2,
+      "name": "rahul",
+      "contact": 467235432,
+      "email": "r@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "profile_img": "https://image.shutterstock.com/image-photo/mumbai-india-5-january-2015-260nw-251518261.jpg"
+    },
+    {
+      "id": 3,
+      "name": "amey",
+      "contact": 467235432,
+      "email": "r@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "profile_img": "https://image.shutterstock.com/image-photo/mumbai-india-5-january-2015-260nw-251518261.jpg"
+    }
+  ]
+}
