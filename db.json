@@ -1,31 +1,17 @@
 {
   "data": [
     {
-      "id": 1,
       "name": "dhananjay",
-      "contact": 467235432,
-      "email": "m@gmail.com",
-      "gender": "male",
-      "role": "admin",
-      "profile_img": "https://image.shutterstock.com/image-photo/mumbai-india-5-january-2015-260nw-251518261.jpg"
-    },
-    {
-      "id": 2,
-      "name": "rahul",
-      "contact": 467235432,
-      "email": "r@gmail.com",
-      "gender": "male",
-      "role": "admin",
-      "profile_img": "https://image.shutterstock.com/image-photo/mumbai-india-5-january-2015-260nw-251518261.jpg"
-    },
-    {
-      "id": 3,
-      "name": "amey",
-      "contact": 467235432,
-      "email": "r@gmail.com",
-      "gender": "male",
-      "role": "admin",
-      "profile_img": "https://image.shutterstock.com/image-photo/mumbai-india-5-january-2015-260nw-251518261.jpg"
+      "email": "dhananjay.ivision@gmail.com",
+      "contact": "5435435643",
+      "role": "Manager",
+      "file": "blob:http://localhost:3000/04ec8a55-3869-46a8-a214-76a043943ad5",
+      "gender": "Male",
+      "isDeleted": false,
+      "headers": {
+        "Content-type": "application/json; charset=UTF-8"
+      },
+      "id": 1
     }
   ]
 }
